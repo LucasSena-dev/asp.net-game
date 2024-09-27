@@ -1,0 +1,51 @@
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\bin\Debug\net8.0\appsettings.json
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\bin\Debug\net8.0\GameStore.exe
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\bin\Debug\net8.0\GameStore.deps.json
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\bin\Debug\net8.0\GameStore.runtimeconfig.json
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\bin\Debug\net8.0\GameStore.dll
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\bin\Debug\net8.0\GameStore.pdb
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\GameStore.AssemblyInfoInputs.cache
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\GameStore.AssemblyInfo.cs
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\GameStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.props
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.props
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.props
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\scopedcss\bundle\GameStore.styles.css
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\GameStore.dll
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\refint\GameStore.dll
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\GameStore.pdb
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\GameStore.genruntimeconfig.cache
+C:\Users\cruzl\OneDrive\Área de Trabalho\Estudos\Estudos de C#\GameStore\GameStore\obj\Debug\net8.0\ref\GameStore.dll
+C:\Github\asp.net-game\GameStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Github\asp.net-game\GameStore\bin\Debug\net8.0\appsettings.json
+C:\Github\asp.net-game\GameStore\bin\Debug\net8.0\GameStore.exe
+C:\Github\asp.net-game\GameStore\bin\Debug\net8.0\GameStore.deps.json
+C:\Github\asp.net-game\GameStore\bin\Debug\net8.0\GameStore.runtimeconfig.json
+C:\Github\asp.net-game\GameStore\bin\Debug\net8.0\GameStore.dll
+C:\Github\asp.net-game\GameStore\bin\Debug\net8.0\GameStore.pdb
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\GameStore.AssemblyInfoInputs.cache
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\GameStore.AssemblyInfo.cs
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\GameStore.csproj.CoreCompileInputs.cache
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\GameStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\GameStore.sourcelink.json
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.props
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.props
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.props
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\scopedcss\bundle\GameStore.styles.css
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\GameStore.dll
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\refint\GameStore.dll
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\GameStore.pdb
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\GameStore.genruntimeconfig.cache
+C:\Github\asp.net-game\GameStore\obj\Debug\net8.0\ref\GameStore.dll
