@@ -8,32 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cruzl\\.nuget\\packages\\": {},
-    "E:\\visual studio sdk\\NuGetPackages": {}
+    "/Users/lucassena/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\asp.net-game\\GameStore\\GameStore.csproj",
+      "projectUniqueName": "/Users/lucassena/Github/asp.net-game/GameStore/GameStore.csproj",
       "projectName": "GameStore",
-      "projectPath": "C:\\Github\\asp.net-game\\GameStore\\GameStore.csproj",
-      "packagesPath": "C:\\Users\\cruzl\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\asp.net-game\\GameStore\\obj\\",
+      "projectPath": "/Users/lucassena/Github/asp.net-game/GameStore/GameStore.csproj",
+      "packagesPath": "/Users/lucassena/.nuget/packages/",
+      "outputPath": "/Users/lucassena/Github/asp.net-game/GameStore/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "E:\\visual studio sdk\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cruzl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/lucassena/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -75,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
